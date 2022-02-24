@@ -1,4 +1,5 @@
 HelpList:
+  list:
   - "---------------------------------------------"
   - "/ignore to ignore players"
   - "/w to wisper to someone"
