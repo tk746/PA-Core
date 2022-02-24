@@ -1,5 +1,4 @@
-help_list:
-list:
+HelpList:
   - "/ignore to ignore players"
   - "/w to wisper to someone"
   - "/r to reply to a wisper"

@@ -18,8 +18,9 @@ public class HelpCommand implements CommandExecutor {
 
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
-        List<String> list = plugin.getConfig().getStringList("help_list.list");
+        List<String> list = plugin.getConfig().getStringList("HelpList");
         String join = String.join("\n", list);
+        sender.sendMessage(join); // You have to send the list to the player for it to be seen
         return false;
     }
 }
