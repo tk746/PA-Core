@@ -1,0 +1,5 @@
+tk746\pureanarchycore\commands\CommandHandler.class
+tk746\pureanarchycore\Main.class
+tk746\pureanarchycore\utils\Utils.class
+tk746\pureanarchycore\commands\BaseCommands.class
+tk746\pureanarchycore\commands\command\HelpCommand.class
