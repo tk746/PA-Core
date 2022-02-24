@@ -1,0 +1,12 @@
+name: Pureanarchycore
+version: '${project.version}'
+main: tk746.pureanarchycore.Main
+authors: [ tk746 ]
+description: a core for pureanarchy.tk
+
+# This is needed for commands to work -KRYMZ0N
+commands:
+  help:
+    description: help command
+  dupe:
+    description: dupe command
