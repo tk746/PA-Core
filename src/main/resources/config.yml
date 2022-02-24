@@ -1,4 +1,5 @@
 HelpList:
+  - "---------------------------------------------"
   - "/ignore to ignore players"
   - "/w to wisper to someone"
   - "/r to reply to a wisper"
@@ -7,3 +8,4 @@ HelpList:
   - "/stats to see the worlds age"
   - "/playtime to see your playtime on the server"
   - "/discord to join the pureanarchy discord"
+  - "---------------------------------------------"
